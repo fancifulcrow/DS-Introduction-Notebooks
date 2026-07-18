@@ -2,6 +2,7 @@ catboost
 lightgbm
 matplotlib
 numpy
+openpyxl
 pandas
 scikit-learn
 seaborn
